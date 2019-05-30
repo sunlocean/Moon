@@ -1,6 +1,7 @@
 ---
-layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+layout: page
+title: "Hier kommen bald Infos zu Sonnencremes und Rezepte zum Selbermachen."
+excerpt: "Also wirklich ganz bald!"
+tags: []
 comments: false
 ---
