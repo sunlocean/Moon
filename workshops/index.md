@@ -11,7 +11,7 @@ Hier kannst du uns besuchen und zusammen mit uns deine eigene Sonnencreme anrüh
 
 ## Surf Festival Fehmarn
 
-<center><a href="https://www.surffestival.de/"><b>30.0.5-02.06</b></a> </center>
+<center><a href="https://www.surffestival.de/"><b>30.05-02.06</b></a> </center>
 
 ## Markt der Möglichkeiten
 <center><a href="http://www.klik.uni-kiel.de/de/aktionen/5-juni-zero-waste-university
