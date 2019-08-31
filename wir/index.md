@@ -14,3 +14,7 @@ Wir sind Sun L’Ocean e.V. ein kleines Projekt mit großen Zielen. Wir möchten
 
 <a href="https://sunlocean.github.io/Impressum"><b>Impressum</b></a> 
 <a href="https://sunlocean.github.io/Datenschutz"><b>Datenschutz</b></a>
+
+## Kontakt
+Erreichen kannst du uns bei Instagram und Facebook, denn wir sind natürlich am Puls der Zeit. 
+Wir freuen uns aber auch über eine Email an teamsunlocean@gmail.com und im Impressum findest du auch eine Adresse für deine Brieftaube.
