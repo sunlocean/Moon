@@ -24,6 +24,7 @@ Hier kannst du uns besuchen und zusammen mit uns deine eigene Sonnencreme anrüh
 ## Surfschule Heidkate
 Im Sommer findet man uns an der Surfschule Heidkate, es ist Großes in Planung!
 <center><a href="https://www.surfschule-heidkate.de/"><b>Endloser Sommer</b></a> </center>
-
+## crossborder innovation challenge
+<center><a href="https://crossborderinnovation.eu/en"><b>Endloser Sommer</b></a> </center>
 ## Weitere Termine folgen
 Infos kommen bald, hier und in der Insta Story!
